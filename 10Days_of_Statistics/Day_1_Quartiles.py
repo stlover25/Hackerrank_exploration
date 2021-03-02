@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  2 13:40:18 2021
-
-@author: 1519984
-"""
-
-
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 
 n= input()
