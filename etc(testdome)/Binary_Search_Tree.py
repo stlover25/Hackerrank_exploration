@@ -1,6 +1,9 @@
 import collections
+#collections 모듈의 namedtuple 함수를 통해, Node라는 이름을 가진 배열 자료구조를 만든다. 
+#이 배열에는 왼쪽에 위치한 노드와 오른쪽에 위치한 노드, 그리고 해당 노드의 값을 포함하고 있다.
 
 Node = collections.namedtuple('Node', ['left', 'right', 'value'])
+
 
 def contains(root, value):
     
